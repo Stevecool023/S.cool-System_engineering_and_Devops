@@ -9,4 +9,6 @@ A program that sets rules for validity of a password and checks/validates passwo
 A program that extracts the name, area code and phone numbers.\
 Word bounderies.\
 Search for an email and username.\
+Look for patterns using re.findal.\
 
+Stephen@Karanja.
