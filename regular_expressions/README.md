@@ -10,5 +10,6 @@ A program that extracts the name, area code and phone numbers.\
 Word bounderies.\
 Search for an email and username.\
 Look for word patterns.\
+Iterate over matched objects.\
 
 Stephen@Karanja.
