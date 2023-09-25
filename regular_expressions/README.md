@@ -11,5 +11,7 @@ Word bounderies.\
 Search for an email and username.\
 Look for word patterns.\
 Iterate over matched objects.\
+Return first match of an occurrence encountered.\
+Search occurrence of a pattern at the beggining of a string.\
 
 Stephen@Karanja.
