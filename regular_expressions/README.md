@@ -14,6 +14,7 @@ Iterate over matched objects.\
 Return first match of an occurrence encountered.\
 Search occurrence of a pattern at the beggining of a string.\
 Backreference/re-use a captured group within a regex pattern.\
-Extract parts of a word using capturing groups.
+Extract parts of a word using capturing groups.\
+Use capture groups to extract parts of a word or group of digits.
 
 Stephen@Karanja.
