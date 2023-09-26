@@ -7,7 +7,7 @@ text = 'I see a blue sky and a beautiful rainbow.'
 # Quantifiers to match vowels.
 pattern = r'\w*[aeiou]{3,5}\w*'
 
-matches = re.finditer(pattern, text)
+matches = re.finditer(pattern, text, re.I)
 
 for match in matches:
     print('\nMatch:',match.group(0))
