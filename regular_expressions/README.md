@@ -20,6 +20,7 @@ Group parts of a pattern without capturing.\
 Implementing positive lookbehind and negative lookbehind as well as positive lookahead and negative lookahead.\
 Using quantifiers to group or capture patterns.\
 Using regular expressions flags.\
-Greedy versus non-greedy matching.
+Greedy versus non-greedy matching.\
+Escape special characters to literally print them.
 
 Stephen@Karanja.
