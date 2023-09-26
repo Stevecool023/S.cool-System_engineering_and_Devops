@@ -17,6 +17,7 @@ Backreference/re-use a captured group within a regex pattern.\
 Extract parts of a word using capturing groups.\
 Use capture groups to extract parts of a word or group of digits.\
 Group parts of a pattern without capturing.\
-Implementing positive lookbehind and negative lookbehind as well as positive lookahead and negative lookahead.
+Implementing positive lookbehind and negative lookbehind as well as positive lookahead and negative lookahead.\
+Using quantifiers to group or capture patterns.
 
 Stephen@Karanja.
