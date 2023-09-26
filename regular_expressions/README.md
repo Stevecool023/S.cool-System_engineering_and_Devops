@@ -19,6 +19,7 @@ Use capture groups to extract parts of a word or group of digits.\
 Group parts of a pattern without capturing.\
 Implementing positive lookbehind and negative lookbehind as well as positive lookahead and negative lookahead.\
 Using quantifiers to group or capture patterns.\
-Using regular expressions flags.
+Using regular expressions flags.\
+Greedy versus non-greedy matching.
 
 Stephen@Karanja.
